@@ -39,7 +39,7 @@
 
 <div class="grid-container" style="display: grid; grid-template-columns: auto auto auto; background-color: #2196F3; padding: 10px;">
   <div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); border-right:4px; padding: 20px; font-size: 30px; text-align: center;">
-    <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+   <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
   </div>
   <div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); padding: 20px; font-size: 30px; text-align: center;">
     <h3 align="left">Support:</h3>
