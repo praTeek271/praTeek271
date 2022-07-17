@@ -37,10 +37,17 @@
 
 <hr style="border:black dashed; background:transparent;">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, auto)); grid-gap: 2rem;">
-
-<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-<vl style="border-left: 4px solid;">
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a></p><br><br>
+<div class="grid-container" style="display: grid; grid-template-columns: auto auto auto; background-color: #2196F3; padding: 10px;">
+  <div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); border-right:4px; padding: 20px; font-size: 30px; text-align: center;">
+    <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+  </div>
+  <div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); padding: 20px; font-size: 30px; text-align: center;">
+    <h3 align="left">Support:</h3>
+    <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a></p><br><br>
+  </div>
 </div>
+
+
+
+<vl style="border-left: 4px solid;">
+
