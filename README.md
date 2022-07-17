@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek271&label=Profile%20views&color=0eb4b1&style=flat" alt="prateek271" /> </p>
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://bit.ly/3uT9sdM).
+- 👨‍💻 All of my projects are available at [my Portfolio](https://bit.ly/3uT9sdM) .
 
-- 📝 I regularly write articles on [codepacezx.blogspot](https://codepacezx.blogspot.com/?m=1)
+- 📝 I regularly write articles on [my Blog](https://codepacezx.blogspot.com/?m=1) .
 
 - 💬 Ask me about **Python , HTML, CSS , SQL, Django**
 
-- 📫 How to reach me **<a href = "mailto: codematters.prateek271@gmail.com">Send Email</a>**
+- 📫 How to reach me **<a href = "mailto: codematters.prateek271@gmail.com">Send me an Email</a>** .
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/prateek-kumar-singh-u78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prateek-kumar-singh-u78" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/code matters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code matters" height="30" width="40" /></a>
