@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python , HTML, CSS , SQL, Django**
 
-- 📫 How to reach me **codematters.prateek271@gmail.com**
+- 📫 How to reach me **<a href = "mailto: codematters.prateek271@gmail.com">Send Email</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
