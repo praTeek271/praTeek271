@@ -25,6 +25,7 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact" alt="prateek271" /></p>
+<hr style="border:transparent dashed; background:transparent;">
 
 <br>
 
