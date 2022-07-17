@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek271&label=Profile%20views&color=0e75b6&style=flat" alt="prateek271" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek271" alt="prateek271" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://bit.ly/3uT9sdM](https://bit.ly/3uT9sdM)
 
 - 📝 I regularly write articles on [https://codepacezx.blogspot.com/?m=1](https://codepacezx.blogspot.com/?m=1)
