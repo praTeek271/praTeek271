@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=dark" alt="prateek271" /></p>
 
-<br><br>
+<br>
 
 <hr style="border:black dashed; background:transparent;">
 
