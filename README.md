@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek271&label=Profile%20views&color=0eb4b1&style=flat" alt="prateek271" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3uT9sdM](https://bit.ly/3uT9sdM)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://bit.ly/3uT9sdM).
 
-- 📝 I regularly write articles on [https://codepacezx.blogspot.com/?m=1](https://codepacezx.blogspot.com/?m=1)
+- 📝 I regularly write articles on [codepacezx.blogspot](https://codepacezx.blogspot.com/?m=1)
 
 - 💬 Ask me about **Python , HTML, CSS , SQL, Django**
 
