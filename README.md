@@ -35,7 +35,7 @@
 
 <br>
 <hr style="border:black dashed; background:transparent;">
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=384&q=75" style="width: 161px; height: auto;">
+<img src="https://holopin.io/@prateek_271" style="width: 161px; height: auto;">
 <div class="grid-container" style="display: grid; grid-template-columns: auto auto auto; background-color: #2196F3; padding: 10px;">
   <div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); border-right:4px; padding: 20px; font-size: 30px; text-align: center;">
    <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
