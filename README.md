@@ -52,7 +52,7 @@
 
 <hr style="border:#00000000 dashed; background:transparent;">
 <br>
-//contribution
+
 <p><img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/github-user-contribution%20(1).svg" alt="contribution Snake Grid"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=light" style="pointer-events: none;" alt="prateek271" /></p>
@@ -68,11 +68,11 @@
 
 <div class="grid-container" style="display: grid; grid-template-columns: auto auto auto; background-color: #2196F3; padding: 10px;">
   
-  <div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); padding: 20px; font-size: 30px; text-align: center;">
+  <div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px; font-size: 30px; text-align: center;">
     <h3 align="left">Support:</h3>
     <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a></p><br><br>
   </div>
 </div>
-<img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/Private%20GIF.gif"/>
+
 <vl style="border-left: 4px solid;">
 
