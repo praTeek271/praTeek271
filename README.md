@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek271&label=Profile%20views&color=0eb4b1&style=flat" alt="prateek271" /> </p>
+<p align="left">
+<a href="https://www.linkedin.com/in/prateek-kumar-singh-u78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prateek-kumar-singh-u78" style="width: 20px;height: 20px;"/></a>
+<a href="https://www.youtube.com/channel/UCMn7iq5ZdH2pyeazynaZjBA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code matters" style="width: 20px;height: 20px;"/></a>
+</p>
 
 - 👨‍💻 All of my projects are available at [my Portfolio]([https://bit.ly/3uT9sdM](https://prateek271.github.io/PortFolio-Page/)) .
 
@@ -10,12 +14,6 @@
 - 💬 Ask me about **Python , HTML, CSS , SQL, Django**
 
 - 📫 How to reach me **<a href = "mailto: codematters.prateek271@gmail.com">Send me an Email</a>** .
-
-<h3 align="left">Connect with me on :</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prateek-kumar-singh-u78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prateek-kumar-singh-u78" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCMn7iq5ZdH2pyeazynaZjBA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code matters" height="30" width="40" /></a>
-</p>
 
 
 ```bash
@@ -54,28 +52,27 @@
 
 <hr style="border:#00000000 dashed; background:transparent;">
 <br>
+//contribution
+<p><img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/github-user-contribution%20(1).svg" alt="contribution Snake Grid"/></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=light" style="pointer-events: none;" alt="prateek271" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact"  style="pointer-events: none;" alt="prateek271" /></p>
+<div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); border-right:4px; padding: 20px; font-size: 30px; text-align: center;">
+   <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+  </div>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" style="pointer-events: none;" alt="prateek271" /></p>
 
 <br>
-<p><img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/github-user-contribution%20(1).svg" alt="contribution Snake Grid"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=light" style="pointer-events: none;" alt="prateek271" /></p>
-
 <br>
 <hr style="border:black dashed; background:transparent;">
-<img src="https://holopin.me/prateek_271)](https://holopin.io/@prateek_271">
+
 <div class="grid-container" style="display: grid; grid-template-columns: auto auto auto; background-color: #2196F3; padding: 10px;">
-  <div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); border-right:4px; padding: 20px; font-size: 30px; text-align: center;">
-   <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
-  </div>
+  
   <div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); padding: 20px; font-size: 30px; text-align: center;">
     <h3 align="left">Support:</h3>
     <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a></p><br><br>
   </div>
 </div>
-
-<img src="[![An image of @prateek_271's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prateek_271)](https://holopin.io/@prateek_271)" alt="arduino" width="40" height="40"/>
-
+<img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/Private%20GIF.gif"/>
 <vl style="border-left: 4px solid;">
 
