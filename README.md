@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek271&label=Profile%20views&color=0eb4b1&style=flat" alt="prateek271" /> </p>
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://bit.ly/3uT9sdM) .
+- 👨‍💻 All of my projects are available at [my Portfolio]([https://bit.ly/3uT9sdM](https://prateek271.github.io/PortFolio-Page/)) .
 
 - 📝 I regularly write articles on [my Blog](https://codepacezx.blogspot.com/?m=1) .
 
@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me on :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prateek-kumar-singh-u78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prateek-kumar-singh-u78" height="30" width="40" /></a>
+  
 <a href="https://www.youtube.com/channel/UCMn7iq5ZdH2pyeazynaZjBA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code matters" height="30" width="40" /></a>
 </p>
 <br>
@@ -34,17 +35,17 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <hr style="border:#00000000 dashed; background:transparent;">
-<br><br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact"  style="pointer-events: none;" alt="prateek271" /></p>
 
-<br><br><br><br><br><br><br>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" style="pointer-events: none;" alt="prateek271" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" style="pointer-events: none;" alt="prateek271" /></p>
 
 <br>
 <p><img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/github-user-contribution%20(1).svg" alt="contribution Snake Grid"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=dark" style="pointer-events: none;" alt="prateek271" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=light" style="pointer-events: none;" alt="prateek271" /></p>
 
 <br>
 <hr style="border:black dashed; background:transparent;">
