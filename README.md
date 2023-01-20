@@ -14,9 +14,27 @@
 <h3 align="left">Connect with me on :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prateek-kumar-singh-u78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prateek-kumar-singh-u78" height="30" width="40" /></a>
-  
 <a href="https://www.youtube.com/channel/UCMn7iq5ZdH2pyeazynaZjBA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code matters" height="30" width="40" /></a>
 </p>
+
+
+```bash
+  class Prateek:
+    def __init__(self):
+      slef.pronunce=He|Him
+      self.proffesion=Comder
+      self.languages_I_code_on={ 'Python', 'Java' , 'HTML', 'CSS' .'JS', 'SQL' 'MySQL'}
+      self.technologies_Worked_on= {'FrontEnd Web Development' , 'BackEnd Developement' , 'Google Cloud Console' ,
+                                    'API-Integration in Python' , 'REST API', 'Large data Analytics using Tableau'}
+      self.workplace: {
+                      college: 'NIET',
+                      course: 'B-Tech',
+                      specialization : 'AI and machine learning'
+                      }
+      self.availableForHire: true
+                                
+```
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
