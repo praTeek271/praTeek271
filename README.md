@@ -59,7 +59,7 @@
   </div>
 </div>
 
-
+<img src="[![An image of @prateek_271's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prateek_271)](https://holopin.io/@prateek_271)" alt="arduino" width="40" height="40"/>
 
 <vl style="border-left: 4px solid;">
 
