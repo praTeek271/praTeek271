@@ -54,19 +54,16 @@
 <br>
 
 <p><img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/github-user-contribution%20(1).svg" alt="contribution Snake Grid"/></p>
+<div class="container" style="display:flex;position:relative;justify-content:space-between">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact" alt="prateek271" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=light" style="pointer-events: none;" alt="prateek271" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact"  style="pointer-events: none;" alt="prateek271" /></p>
-<div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); border-right:4px; padding: 20px; font-size: 30px; text-align: center;">
-   <img alt="Coder GIF" height=250 width=350 src="https://assets.pinterest.com/ext/embed.html?id=809733208021036550" />
-  </div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" alt="prateek271" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=dark" alt="prateek271" /></p>
+</div>
+
 <br>
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" style="pointer-events: none;" alt="prateek271"/></p>
-
-
 <hr style="border:black dashed; background:transparent;">
-
-
+<br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a></p><br><br>
