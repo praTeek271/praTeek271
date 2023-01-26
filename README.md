@@ -62,7 +62,13 @@
   </div>
 <br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" style="pointer-events: none;" alt="prateek271" /></p>
-
+<hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+<hr>
 <br>
 <br>
 <hr style="border:black dashed; background:transparent;">
