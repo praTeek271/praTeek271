@@ -57,9 +57,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=light" style="pointer-events: none;" alt="prateek271" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact"  style="pointer-events: none;" alt="prateek271" /></p>
-<div class="grid-item" style="background-color: rgba(255, 255, 255, 0.8); border-right:4px; padding: 20px; font-size: 30px; text-align: center;">
-   <img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
-  </div>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=809733208021036550" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+<br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" style="pointer-events: none;" alt="prateek271" /></p>
 
 <br>
