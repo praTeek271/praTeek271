@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prateek Kumar Singh</h1>
+<h1 align="center">Hi, 👋, I'm Prateek Kumar Singh</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek271&label=Profile%20views&color=0eb4b1&style=flat" alt="prateek271" /> </p>
