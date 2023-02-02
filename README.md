@@ -66,4 +66,5 @@
 <hr style="border:black dashed; background:transparent;">
 <br>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a></p><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a></p><br><h![unnamed (1)](https://user-images.githubusercontent.com/66623022/216418869-63c3b907-9b45-4e35-b1d4-4a6a96275e36.png)
+r>
