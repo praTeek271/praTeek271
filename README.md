@@ -19,7 +19,7 @@
 ```bash
   class Prateek:
     def __init__(self):
-      slef.pronunce=He|Him
+      self.pronunce=He|Him
       self.proffesion=Comder
       self.languages_I_code_on={ 'Python', 'Java' , 'HTML', 'CSS' .'JS', 'SQL' 'MySQL'}
       self.technologies_Worked_on= {'FrontEnd Web Development' , 'BackEnd Developement' , 'Google Cloud Console' ,
