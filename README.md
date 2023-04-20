@@ -4,8 +4,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek271&label=Profile%20views&color=0eb4b1&style=flat" alt="prateek271" /> </p>
 <p align="left">
-<a href="https://www.linkedin.com/in/prateek-kumar-singh-u78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prateek-kumar-singh-u78" style="width: 20px;height: 20px;"/></a>
-<a href="https://www.youtube.com/channel/UCMn7iq5ZdH2pyeazynaZjBA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code matters" style="width: 20px;height: 20px;"/></a>
+
+<a href="https://twitter.com/prateek2719">
+  <img align="left" alt="Prateek Kumar Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/prateek-kumar-singh-u78/">
+  <img align="left" alt="Prateek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/prateekkumar321/">
+  <img align="left" alt="Prateek's Insta" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
+</a>
+<a href="https://www.youtube.com/channel/UCMn7iq5ZdH2pyeazynaZjBA">
+  <img align="left" alt="Prateek's Youtube" width="22px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />
+</a>
+
 </p>
 
 - 👨‍💻 All of my projects are available at [my Portfolio]([https://bit.ly/3uT9sdM](https://prateek271.github.io/PortFolio-Page/)) .
