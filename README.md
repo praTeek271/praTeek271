@@ -2,7 +2,7 @@
 , I'm Prateek Kumar Singh</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek271&label=Profile%20views&color=0eb4b1&style=flat" alt="prateek271" /> </p>
+
 <p align="left">
 
 <a href="https://twitter.com/prateek2719">
@@ -17,6 +17,7 @@
 <a href="https://www.youtube.com/channel/UCMn7iq5ZdH2pyeazynaZjBA">
   <img align="left" alt="Prateek's Youtube" width="22px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek271&label=Profile%20views&color=0eb4b1&style=flat" alt="prateek271" /> </p>
 
 </p>
 <br>
