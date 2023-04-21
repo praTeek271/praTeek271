@@ -67,19 +67,25 @@
 
 <hr style="border:#00000000 dashed; background:transparent;">
 <br>
+<!---Graph Contrib--->
+<img src="https://github.com/praTeek271/praTeek271/blob/main/profile-3d-contrib/profile-night-green.svg">
 
+<!---Snake Contrib--->
 <p><img src="https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.svg" alt="contribution Snake Grid"/></p>
-<div class="container" style="display:flex;position:relative;justify-content:space-between">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact" alt="prateek271" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" alt="prateek271" /></p>
+<!---Stats--->
+<div class="container" style="display:flex;position:relative;justify-content:space-evenly">
+  
+<p><img  align="left" style="height:197px;width:330px" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" alt="prateek271"></p>
+<p><img  style="height:197px;width:330px" align="right src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=dark" alt="prateek271"></p>
+<p><img style="height:197px;width:330px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact" alt="prateek271" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=dark" alt="prateek271" /></p>
 </div>
 
 <br>
 <hr style="border:black dashed; background:transparent;">
 <br>
+<!---support--->
 <h3 align="left">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a></p><br>
-<img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/assets.png"></img>
+<p align="center"><img style="width:100%;height:auto" src="https://github.com/praTeek271/praTeek271/blob/main/_cache/assets.png"></img></p
