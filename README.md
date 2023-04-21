@@ -6,7 +6,7 @@
 <p align="left">
 
 <a href="https://twitter.com/prateek2719">
-  <img align="left" alt="Prateek Kumar Singh | Twitter" height="32" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Prateek Kumar Singh | Twitter" height="32" width="32px" src="https://github.com/praTeek271/praTeek271/blob/main/_cache/twitter.gif" />
 </a>
 <a href="https://www.linkedin.com/in/prateek-kumar-singh-u78/">
   <img align="left" alt="Prateek's LinkedIN" height="32" width="32px" src="https://github.com/praTeek271/praTeek271/blob/main/_cache/linkedin.gif" />
