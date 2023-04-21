@@ -74,11 +74,10 @@
 <p><img src="https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.svg" alt="contribution Snake Grid"/></p>
 
 <!---Stats--->
-<div class="container" style="display:flex;position:relative;justify-content:space-evenly">
-  
-<p><img  align="left" style="height:200px;width:330px" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" alt="prateek271"></p>
-<p><img  style="height:200px;width:330px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=dark" alt="prateek271"></p>
-<p><img style="height: 182px;width: 250px;margin-top: 8px;max-width: 100%;margin-left: 94px;"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact" alt="prateek271" /></p>
+<div style="display: grid;grid-template-columns: auto auto auto;">
+  <div><img style="height:200px;width:330px" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" alt="prateek271"></div>
+  <div><img  style="height:220px;width:330px" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=dark" alt="prateek271"></div>
+  <div><img style="height: 182px;width: 250px;margin-top: 8px;max-width: 100%;margin-left: 94px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact" alt="prateek271" /></div>
 
 </div>
 
