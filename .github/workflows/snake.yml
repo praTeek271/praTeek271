@@ -28,10 +28,10 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: warriorwizard
+          github_user_name: praTeek271
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: github-user-contribution (1).gif
+          svg_out_path: github-user-contribution (1).svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
