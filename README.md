@@ -68,7 +68,7 @@
 <hr style="border:#00000000 dashed; background:transparent;">
 <br>
 
-<p><img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/github-user-contribution%20(1).svg" alt="contribution Snake Grid"/></p>
+<p><img src="https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.svg" alt="contribution Snake Grid"/></p>
 <div class="container" style="display:flex;position:relative;justify-content:space-between">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact" alt="prateek271" /></p>
 
