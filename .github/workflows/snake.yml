@@ -30,8 +30,8 @@ jobs:
         with:
           github_user_name: praTeek271
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: github-user-contribution (1).gif
-          svg_out_path: github-user-contribution (1).svg
+          gif_out_path: github-user-contribution.gif
+          svg_out_path: github-user-contribution.svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
