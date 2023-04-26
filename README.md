@@ -71,8 +71,8 @@
 <img src="https://github.com/praTeek271/praTeek271/blob/main/profile-3d-contrib/profile-night-green.svg">
 
 <!---Snake Contrib--->
-![snake gif](https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.gif)
-
+  <p><img src="https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.svg" alt="contribution Snake Grid"/></p>
+ 
 <!---Stats--->
 <div style="position:absolute">
   <div><img align="left" style="height:200px;width:330px" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" alt="prateek271"></div>
@@ -88,6 +88,3 @@
 <h3 align="left">Suport:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a></p><br>
 <p align="center"><img style="width:100%;height:auto" src="https://github.com/praTeek271/praTeek271/blob/main/_cache/assets.png"></img></p
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-</picture>
