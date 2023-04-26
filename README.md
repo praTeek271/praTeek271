@@ -71,7 +71,7 @@
 <img src="https://github.com/praTeek271/praTeek271/blob/main/profile-3d-contrib/profile-night-green.svg">
 
 <!---Snake Contrib--->
-<p><img src="https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.svg" alt="contribution Snake Grid"/></p>
+![snake gif](https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.gif)
 
 <!---Stats--->
 <div style="position:absolute">
