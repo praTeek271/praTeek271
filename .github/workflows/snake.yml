@@ -1,3 +1,4 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
 
@@ -30,7 +31,8 @@ jobs:
         with:
           github_user_name: praTeek271
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          svg_out_path: github-user-contribution.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
@@ -40,7 +42,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: output
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
