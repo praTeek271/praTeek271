@@ -70,18 +70,21 @@
 <img src="https://github.com/praTeek271/praTeek271/blob/main/profile-3d-contrib/profile-night-green.svg">
 
 <!---Snake Contrib--->
-  <p><img src="https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.svg" alt="contribution Snake Grid"/></p>
+  <p style="display:grid;grid-column-template:auto auto"><img style=""src="https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.svg" alt="contribution Snake Grid"/>
+<img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/3368330a-32f3-479a-8634-12a7821bfc03-removebg-preview.png">
+
+</p>
  
 <!---Stats--->
-<div style="position:absolute; display:grid; grid-template-columns: auto auto auto;" >
-  <div><img align="left" style="height:200px;width:330px; padding: 0px 7px 0px 2px;" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" alt="prateek271"></div>
-  <div><img align="center" style="height:200px;width:330px;padding: 0px 7px 0px 4px;" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=dark" alt="prateek271"></div>
-  <div><img align="right"style="height:200px;width:330px;padding: 0px 7px 0px 2px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact" alt="prateek271" /></div>
+<div style="display:grid; grid-template-columns: auto auto auto;" >
+<img align="left" style="height:200px;width:330px; padding: 0px 7px 0px 2px;" src="https://github-readme-stats.vercel.app/api?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&text_color=5badec&bg_color=0c1014&locale=en" alt="prateek271">
+<img align="center" style="height:200px;width:330px;padding: 0px 7px 0px 4px;" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek271&theme=dark" alt="prateek271">
+<img align="right"style="height:200px;width:330px;padding: 0px 7px 0px 2px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek271&show_icons=true&theme=onedark&title_color=fb6a6a&bg_color=0c1014&hide_border=true&locale=en&layout=compact" alt="prateek271">
 </div>
 
 <br>
 <p><hr style="border:black dashed; background:transparent;">
-<img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/3368330a-32f3-479a-8634-12a7821bfc03-removebg-preview.png">
+
 </p>
 <br>
 <!---support--->
