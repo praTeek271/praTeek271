@@ -95,4 +95,4 @@
 </p>
 </div>
 
-<p align="center"><img style="width:100%;height:auto" src="https://github.com/praTeek271/praTeek271/blob/main/_cache/assets.png"></img></p
+<p align="center"><img style="width:100%;height:auto" src="https://github.com/praTeek271/praTeek271/blob/main/_cache/Night_fury-removebg-preview.png"></img></p
