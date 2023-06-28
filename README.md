@@ -70,9 +70,7 @@
 <img src="https://github.com/praTeek271/praTeek271/blob/main/profile-3d-contrib/profile-night-green.svg">
 
 <!---Snake Contrib--->
-  <p style="display:grid;grid-column-template:auto auto"><img style=""src="https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.svg" alt="contribution Snake Grid"/>
-<img src="https://github.com/praTeek271/praTeek271/blob/main/_cache/3368330a-32f3-479a-8634-12a7821bfc03-removebg-preview.png">
-
+  <p><img style=""src="https://github.com/praTeek271/praTeek271/blob/output/github-contribution-grid-snake.svg" alt="contribution Snake Grid"/>
 </p>
  
 <!---Stats--->
@@ -88,6 +86,13 @@
 </p>
 <br>
 <!---support--->
-<h3 align="left">Suport:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a></p><br>
+<div>
+<h3 align="left">Support:</h3>
+<p align="left" style="display:grid;grid-column-template:auto auto">
+<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lusifer"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lusifer" /></a>
+<img style="width:50px;height:auto;"align="center" src="https://github.com/praTeek271/praTeek271/blob/main/_cache/3368330a-32f3-479a-8634-12a7821bfc03-removebg-preview.png">
+
+</p>
+</div>
+
 <p align="center"><img style="width:100%;height:auto" src="https://github.com/praTeek271/praTeek271/blob/main/_cache/assets.png"></img></p
