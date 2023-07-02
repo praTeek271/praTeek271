@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Python , HTML, CSS , SQL, Django**
 
-- 📫 How to reach me **<a href = "mailto: codematters.prateek271@gmail.com">Send me an Email</a>** .
+- 📫 Want to reach me **<a href = "mailto: codematters.prateek271@gmail.com"> Email Me 👇</a>** .
 
 
 ```bash
