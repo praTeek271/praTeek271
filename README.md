@@ -107,6 +107,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+
+<hr style="border:#00000000 dashed; background:transparent;">
+
+[![An image of @prateek_271's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prateek_271)](https://holopin.io/@prateek_271)
+
+
 <hr style="border:#00000000 dashed; background:transparent;">
 <br>
 <!---Graph Contrib--->
