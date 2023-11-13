@@ -4,7 +4,7 @@
 
 </h1>
 <h3 align="center">A passionate BACK_END | WEB Developer from India</h3>
-<hr>
+<hr><hr>
 <p align="left">
 
 <a href="https://twitter.com/prateek2719">
