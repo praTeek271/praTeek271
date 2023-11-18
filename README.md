@@ -1,6 +1,6 @@
 <h2 align="center">HI, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=95F7E6&center=true&random=false&width=435&lines=I'm+Prateek+Kumar+Singh;And%2C+I'm+a+Back-End+Developer)
+![Typing _SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=95F7E6&center=true&random=false&width=435&lines=I'm+Prateek+Kumar+Singh;And%2C+I'm+a+Back-End+Developer)
 
 </h2>
 <h3 align="center">A passionate BACK_END | WEB Developer from India</h3>
