@@ -23,7 +23,7 @@
 
 </p>
 <br>
-
+<br>
 - 👨‍💻 All of my projects are available at [my Portfolio]([https://bit.ly/3uT9sdM](https://prateek271.github.io/PortFolio-Page/)) .
 
 - 📝 I regularly write articles on [my Blog](https://codepacezx.blogspot.com/?m=1)
