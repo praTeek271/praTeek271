@@ -21,16 +21,16 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek271&label=Profile%20views&color=0eb4b1&style=flat" alt="prateek271" /> </p>
 
-</p>
-<br>
-<br>
-- 👨‍💻 All of my projects are available at [my Portfolio]([https://bit.ly/3uT9sdM](https://prateek271.github.io/PortFolio-Page/)) .
+</p><br>
 
-- 📝 I regularly write articles on [my Blog](https://codepacezx.blogspot.com/?m=1)
-
-- 💬 Ask me about **Python , HTML, CSS , SQL, Django**
-
-- 📫 Want to reach me **<a href = "mailto: codematters.prateek271@gmail.com"> Email Me 👇</a>** .
+  
+  - 👨‍💻 All of my projects are available at my [Portfolio](https://prateek271.github.io/PortFolio-Page/) .
+  
+  - 📝 I regularly write articles on [my Blog](https://codepacezx.blogspot.com/?m=1)
+  
+  - 💬 Ask me about **Python , HTML, CSS , SQL, Django**
+  
+  - 📫 Want to reach me **<a href = "mailto: codematters.prateek271@gmail.com"> Email Me 👇</a>** .
 
 
 ```bash
