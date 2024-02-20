@@ -149,4 +149,4 @@
 </p>
 </div>
 
-<p align="center"><img style="width:100%;height:auto" src="https://github.com/praTeek271/praTeek271/blob/main/_cache/Night_fury-removebg-preview.png"></img></p
+<p align="center"><img style="width:100%;height:auto" src="https://github.com/praTeek271/praTeek271/blob/ca668e6bb81b08e1b50a37398c602741d7c9ea6c/_cache/8fb2e371-7ee7-4b0e-bf37-a19514baa53e-removebg-preview%20(1).png"></img></p
