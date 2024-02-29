@@ -1,6 +1,6 @@
 <h2 align="center">HI, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-![Typing _SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=95F7E6&center=true&random=false&width=435&lines=I'm+Prateek+Kumar+Singh;And%2C+I'm+a+Back-End+Developer)
+[![Typing _SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=95F7E6&center=true&random=false&width=435&lines=I'm+Prateek+Kumar+Singh;And%2C+I'm+a+Back-End+Developer)](https://prateek271.me)
 
 </h2>
 <h3 align="center">A passionate BACK_END | WEB Developer from India</h3>
@@ -25,11 +25,11 @@
 </p><br>
 
   
-  - 👨‍💻 All of my projects are available at my [Portfolio](https://prateek271.github.io/PortFolio-Page/) .
+  - 👨‍💻 All of my projects are available at my [Portfolio](https://prateek271.me) .
   
-  - 📝 I regularly write articles on [my Blog](https://codepacezx.blogspot.com/?m=1)
+  - 📝 I regularly write articles on [my Blog](https://codepacezx.blogspot.com)
   
-  - 💬 Ask me about **Python , HTML, CSS , SQL, Django**
+  - 💬 Ask me about **Python , HTML, CSS , SQL, Django , Database Designing , AI model Building**
   
   - 📫 Want to reach me **<a href = "mailto: codematters.prateek271@gmail.com"> Email Me 👇</a>** .
 
